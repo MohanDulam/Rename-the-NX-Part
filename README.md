@@ -7,4 +7,4 @@ In this code mainly used “ug_edit_part_names.exe” application. I added GUI t
 
 We can this “ug_edit_part_names.exe” application in “NX Command prompt” like below image. The location of this file is “C:\Program Files\Siemens\NX 12.0\NXBIN\ ug_edit_part_names.exe”.
 
-
+<img width="680" alt="1" src="https://github.com/MohanDulam/Rename-the-NX-Part/assets/111222356/a9985a4f-234f-4f25-ac1c-04fde9e3d236">
