@@ -9,9 +9,9 @@ We can this “ug_edit_part_names.exe” application in “NX Command prompt” 
 
 <img width="680" alt="1" src="https://github.com/MohanDulam/Rename-the-NX-Part/assets/111222356/a9985a4f-234f-4f25-ac1c-04fde9e3d236">
 
-with the help of example command (like bellow image) in we understand how to pass the arrgument to this application
+with the help of example command (like below image) in we understand how to pass the arrgument to this application
 ![image](https://github.com/MohanDulam/Rename-the-NX-Part/assets/111222356/e76f28e0-0784-4e2c-8039-6f262afbb22d)
 
-
+With help of this tool can change the part file name without disturbing the Assembly references.
 
 <img width="485" alt="image" src="https://github.com/MohanDulam/Rename-the-NX-Part/assets/111222356/57725817-4af6-4123-888b-d517953d56e4">
