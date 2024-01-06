@@ -1,6 +1,6 @@
-This Code is inspired from this video Renaming NX File from Windows (youtube.com)
+This Code is inspired from this video (https://www.youtube.com/watch?v=Pex-1GbgwTs)
 
-In video description they provided the source code also in python. Link here  
+In video description they provided the source code also in python. Link here(https://github.com/nahidmubin/Siemens_NX_File_Renaming)
 I simply rewrote the C# code. I encountered a few difficulties understanding the code along the process, but with the use of AI tools, I was able to resolve them.
 
 In this code mainly used “ug_edit_part_names.exe” application. I added GUI to this application.
